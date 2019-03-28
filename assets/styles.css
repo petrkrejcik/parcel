@@ -1,0 +1,9 @@
+body {
+	background-color: #37426eb0;
+	margin: 0;
+	font-size: 18px;
+	-webkit-user-select: none; /* disable text select */
+}
+
+@media only screen and (min-width: 600px) {
+}

@@ -1,0 +1,1650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"in",
+				"instagramIcon"
+			],
+			[
+				"tw",
+				"twitterIcon"
+			],
+			[
+				"li",
+				"linkedinIcon"
+			],
+			[
+				"fac",
+				"facebookIcon"
+			],
+			[
+				"di",
+				"dispatchMock"
+			],
+			[
+				"mock",
+				"mockIsAnimatedGif"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"isA",
+				"isAnimatedGif"
+			],
+			[
+				"error",
+				"errorType"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"Err",
+				"CreatePostErrorT"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"create",
+				"createAttachmentMock"
+			],
+			[
+				"str",
+				"strokeWidth"
+			],
+			[
+				"as",
+				"aspectRatio"
+			],
+			[
+				"vali",
+				"validateTweet"
+			],
+			[
+				"mockSt",
+				"mockState"
+			],
+			[
+				"pub",
+				"publish"
+			],
+			[
+				"sn",
+				"showSnackbar"
+			],
+			[
+				"bu",
+				"buttonCss"
+			],
+			[
+				"class",
+				"classnames"
+			],
+			[
+				"max",
+				"maxHashtagsCount"
+			],
+			[
+				"R",
+				"ReadOnly"
+			],
+			[
+				"hash",
+				"hashtagsCount"
+			],
+			[
+				"se",
+				"secs"
+			],
+			[
+				"rem",
+				"removeChild\t<T: Node>(oldChild: T) => T"
+			],
+			[
+				"e",
+				"el\tHTMLVideoElement"
+			],
+			[
+				"app",
+				"appendChild\t<T: Node>(newChild: T) => T"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"link",
+				"linkedin"
+			],
+			[
+				"err",
+				"errorTooHigh"
+			],
+			[
+				"rul",
+				"rulesProps"
+			],
+			[
+				"profil",
+				"profileIds"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"clas",
+				"classNames"
+			],
+			[
+				"ima",
+				"imageCount"
+			],
+			[
+				"lik",
+				"linkCount"
+			],
+			[
+				"vid",
+				"videoCount"
+			],
+			[
+				"has",
+				"hasVideo"
+			],
+			[
+				"at",
+				"attachmentTypes"
+			],
+			[
+				"han",
+				"handleUploaded2"
+			],
+			[
+				"cre",
+				"createAttachmentPayload"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"coll",
+				"collectionExists"
+			],
+			[
+				"def",
+				"defaultState"
+			],
+			[
+				"net",
+				"network"
+			],
+			[
+				"sele",
+				"selectedProfile"
+			],
+			[
+				"na",
+				"nameB"
+			],
+			[
+				"per",
+				"permission"
+			],
+			[
+				"c",
+				"create-post"
+			],
+			[
+				"mo",
+				"mockData"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"CLO",
+				"CLOUD_DRIVE"
+			],
+			[
+				"selec",
+				"selectedCount"
+			],
+			[
+				"getAc",
+				"_getActiveStrip"
+			],
+			[
+				"getEd",
+				"getEditorNetworkType"
+			],
+			[
+				"fro",
+				"fromNetwork"
+			],
+			[
+				"toNe",
+				"toNetwork"
+			],
+			[
+				"toN",
+				"toNetworks"
+			],
+			[
+				"_syn",
+				"_syncNetworks"
+			],
+			[
+				"_getAc",
+				"_getActiveNetworkTypes"
+			],
+			[
+				"_custo",
+				"_isCustomized"
+			],
+			[
+				"getSele",
+				"getSelectedPagesCount"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"_isSo",
+				"_isSourceUnlocked"
+			],
+			[
+				"css",
+				"cssClasses"
+			],
+			[
+				"muta",
+				"mutator"
+			],
+			[
+				"cssC",
+				"cssClass"
+			],
+			[
+				"_sou",
+				"_sourceTurnedOn"
+			],
+			[
+				"appe",
+				"appendToElement"
+			],
+			[
+				"item",
+				"itemType"
+			],
+			[
+				"size",
+				"sizeInMb"
+			],
+			[
+				"mu",
+				"mutation"
+			],
+			[
+				"mutation",
+				"mutationFn"
+			],
+			[
+				"cust",
+				"customText"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"mime",
+				"mimeTypes"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"thumb",
+				"_thumbCollection"
+			],
+			[
+				"getPub",
+				"getPublishers"
+			],
+			[
+				"_handleCa",
+				"_handleCarouselUploaderDone_filestack"
+			],
+			[
+				"off",
+				"offsets"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"_getPho",
+				"_getPhotoCollection"
+			],
+			[
+				"netw",
+				"networkType"
+			],
+			[
+				"flags",
+				"flagUtils"
+			],
+			[
+				"flag",
+				"flagUtils"
+			],
+			[
+				"files",
+				"filestackHandle"
+			],
+			[
+				"getP",
+				"getPhotos"
+			],
+			[
+				"limi",
+				"limitKey"
+			],
+			[
+				"file",
+				"filetypes"
+			],
+			[
+				"fla",
+				"flagUtils"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"clie",
+				"clientOpened"
+			],
+			[
+				"min",
+				"minHeight"
+			],
+			[
+				"acti",
+				"activeNetworkTypes"
+			],
+			[
+				"ne",
+				"networkFields"
+			],
+			[
+				"set",
+				"setSeconds"
+			],
+			[
+				"network",
+				"networkKeys"
+			],
+			[
+				"TW",
+				"TWITTER"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"_time",
+				"_timezone"
+			],
+			[
+				"fi",
+				"firstDayCell"
+			],
+			[
+				"getPre",
+				"getPreviousCell"
+			],
+			[
+				"empty",
+				"p-agendaEmptyColumn"
+			],
+			[
+				"en",
+				"enableClassName"
+			],
+			[
+				"getNext",
+				"_getNextPostTime"
+			],
+			[
+				"_day",
+				"_getDayStartTime"
+			],
+			[
+				"_cel",
+				"_isCellNow"
+			],
+			[
+				"_renderN",
+				"_renderNewButtonMonth"
+			],
+			[
+				"_canAddNewB",
+				"_canAddNewBetween"
+			],
+			[
+				"nex",
+				"nextTime"
+			],
+			[
+				"_getN",
+				"_getNextPostTime"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"getne",
+				"_getNextPostTime"
+			],
+			[
+				"getPrev",
+				"_getPreviousPostTime"
+			],
+			[
+				"date",
+				"dateTime"
+			],
+			[
+				"isI",
+				"isInPast"
+			],
+			[
+				"_render",
+				"_renderAddNewAfgterItems"
+			],
+			[
+				"_renderNowB",
+				"_renderNowBetweenItems"
+			],
+			[
+				"getEle",
+				"getElement"
+			],
+			[
+				"_tim",
+				"_timezone"
+			],
+			[
+				"_view",
+				"_viewType"
+			],
+			[
+				"_redrawIn",
+				"_redrawInternalOld"
+			],
+			[
+				"getElement",
+				"getElementByClass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/jest.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"jest",
+				"Build With: jest"
+			],
+			[
+				"je",
+				"Build With: jest"
+			],
+			[
+				"bui",
+				"Build With: jest"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"buil",
+				"Build With: jest"
+			],
+			[
+				"auto",
+				"FlowType: Show Autocomplete Suggestions"
+			],
+			[
+				"goto",
+				"FlowType: Goto Definition"
+			],
+			[
+				"aut",
+				"FlowType: Show Autocomplete Suggestions"
+			],
+			[
+				"cover",
+				"NX Coverage: Show File Coverage"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"new bu",
+				"Build: New Build System"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"test su",
+				":TestSuite"
+			],
+			[
+				"test f",
+				":TestFile"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"flow",
+				"Flow"
+			],
+			[
+				"flo",
+				"Flow"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"sublimeli",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublielint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelinte",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"user pref",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"repl co",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"snipp",
+				"Snippet: Console profile"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"snip",
+				"Snippet: Console profile"
+			],
+			[
+				"repl cof",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"coff",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"repl c",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"curr",
+				"Git: Quick Log Current File"
+			],
+			[
+				"coffe",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"git log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"erpl co",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"curre",
+				"Git: Quick Log Current File"
+			],
+			[
+				"quick",
+				"Git: Quick Log"
+			],
+			[
+				"current",
+				"Git: Quick Log Current File"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"synt cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"git",
+				"Git: Diff"
+			],
+			[
+				"coffeelint",
+				"Coffee: Lint"
+			],
+			[
+				"b",
+				"Git: Blame"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"lin",
+				"Coffee: Lint"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"ss",
+			"f",
+			"console",
+			"console.",
+			"reset",
+			"clean",
+			"clen",
+			"sublime.log_commands(True)",
+			"clear",
+			"clet"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/petr.krejcik/www/parcel"
+	],
+	"file_history":
+	[
+		"/Users/petr.krejcik/www/sbks/suite/.env",
+		"/Users/petr.krejcik/www/sbks/suite/server/config.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/content-attachment.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/const/toggles-feature.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/README.md",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/utils/cdn.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-add-link/create-post-add-link.js",
+		"/Users/petr.krejcik/www/static-html/js-hrani/index.html",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/validations.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/attachment-utils.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/content-attachment.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/attachment-utils.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-const.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-reducer.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-reducer.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/sections-reducer.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-sagas.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-actions.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-sagas.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-actions.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/config.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/.env",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-published/create-post-published.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-upload/upload-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/create-post-preview.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/create-post-preview.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/instagram-preview/instagram-preview.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/iflow/declarations/custom-types.js.flow",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/src/routes/content-routes.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/src/remotes/profile-remote.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/common/config/hera-config.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/src/remotes/data-connections-remote.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/src/services/profile-info-service.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile-networks.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/instagram-preview/instagram-preview.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/collections/collections-selectors.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile-profiles/select-profile-profiles.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post.mock.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-selectors.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-header/create-post-header.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/create-post-preview-const.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-footer/create-post-footer.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/validations.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/attachment-utils-fetch.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/utils/cdn.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/attachments/photo/photo.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/image-gallery/image-gallery.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/content-attachment.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/instagram-preview/instagram-preview.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview-link.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview-link.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview-link.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview-link.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview-link.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview-link.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-footer/footer-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/create-post-content.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/attachments/attachments-utils.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-footer/create-post-footer.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-preview/create-post-preview-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/app.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/app-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-utils/attachment-utils-fetch.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/session-info/session-info-selectors.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/server/src/utils/validation-helpers.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/jest/jest.config.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/attachments/attachments.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-add-link/create-post-add-link-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/tracking/tracking-sagas.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/link/link-connected.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/utils/string.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/error-boundary/error-boundary-sagas.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/error-boundary/error-boundary.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/tracking/tracking-actions.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-select-profile/select-profile.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/content-footer/content-footer.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-error-view/create-post-error-view.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-error-view/create-post-error-view.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-error-view/create-post-error-view.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/menu/publisher-menu/publisher-menu-sagas.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-error/create-post-error-view.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/error-logs/error-logs.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/utils/string.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/error-boundary/error-boundary.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/side-menu/side-menu.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/assets/styles/variables.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/action-unavailable/action-unavailable.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/action-unavailable/action-unavailable.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/side-menu/side-menu.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/package.json",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-footer/__snapshots__/create-post-footer.test.js.snap",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/radial-progressbar/radial-progressbar.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/snackbar/snackbar-actions.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/create-post-content.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/radial-progressbar/radial-progressbar.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/radial-progressbar/radial-progressbar-utils.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/radial-progressbar/radial-progressbar.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/create-post-content.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/header/notification-bell/notification-bell.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/snackbar/snackbar.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/package-lock.json",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/radial-progressbar/index.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/char-counter/char-counter.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/char-counter/char-counter.less",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/sections/create-post/create-post-content/char-counter/index.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/app/app/snackbar/snackbar.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/video/video.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/video/video.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/attachments/attachments.test.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/video/index.js",
+		"/Users/petr.krejcik/www/sbks/mobile-suite/client/src/components/content-feed/content/attachments/attachments.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 569.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 115.0
+	},
+	"output.coffee_compile_output":
+	{
+		"height": 213.0
+	},
+	"output.exec":
+	{
+		"height": 611.0
+	},
+	"output.find_results":
+	{
+		"height": 364.0
+	},
+	"output.git-commit":
+	{
+		"height": 96.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "parcel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config",
+				"server/config.js"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"featu",
+				"client/src/const/toggles-feature.js"
+			],
+			[
+				"create post util",
+				"client/src/sections/create-post/create-post-utils.test.js"
+			],
+			[
+				"addli",
+				"client/src/sections/create-post/create-post-add-link/create-post-add-link.js"
+			],
+			[
+				"cdn",
+				"client/src/utils/cdn.js"
+			],
+			[
+				"videoj",
+				"client/src/components/video/video.js"
+			],
+			[
+				"content at",
+				"client/src/sections/create-post/create-post-content/content-attachment.js"
+			],
+			[
+				"fetch",
+				"client/src/sections/create-post/create-post-utils/attachment-utils-fetch.js"
+			],
+			[
+				"toggle",
+				"client/src/const/toggles-feature.js"
+			],
+			[
+				"config.",
+				"server/config.js"
+			],
+			[
+				"createp ost u",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"creaete post sage",
+				"client/src/sections/create-post/create-post-sagas.test.js"
+			],
+			[
+				"create post re",
+				"client/src/sections/create-post/create-post-reducer.test.js"
+			],
+			[
+				"create post test",
+				"client/src/sections/create-post/create-post.test.js"
+			],
+			[
+				"create post conn",
+				"client/src/sections/create-post/create-post-connected.js"
+			],
+			[
+				"create post.js",
+				"client/src/sections/create-post/create-post.js"
+			],
+			[
+				"create post sa",
+				"client/src/sections/create-post/create-post-sagas.js"
+			],
+			[
+				"create post red",
+				"client/src/sections/create-post/create-post-reducer.js"
+			],
+			[
+				"crate post act",
+				"client/src/sections/create-post/create-post-actions.js"
+			],
+			[
+				"published",
+				"client/src/sections/create-post/create-post-published/create-post-published.js"
+			],
+			[
+				"create post ut",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"craete post pre",
+				"client/src/sections/create-post/create-post-preview/create-post-preview.test.js"
+			],
+			[
+				"create post ac",
+				"client/src/sections/create-post/create-post-actions.js"
+			],
+			[
+				"facebook",
+				"client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.less"
+			],
+			[
+				"create post con",
+				"client/src/sections/create-post/create-post-const.js"
+			],
+			[
+				"create-pos",
+				"client/src/sections/create-post/create-post.js"
+			],
+			[
+				"custom",
+				"client/iflow/declarations/custom-types.js.flow"
+			],
+			[
+				"linedinp",
+				"client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.js"
+			],
+			[
+				"cdn test",
+				"client/src/utils/cdn.test.js"
+			],
+			[
+				"attach",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.test.js"
+			],
+			[
+				"validations.t",
+				"client/src/sections/create-post/create-post-utils/validations.test.js"
+			],
+			[
+				"content att",
+				"client/src/sections/create-post/create-post-content/content-attachment.less"
+			],
+			[
+				"attchment",
+				"client/src/sections/create-post/create-post-content/content-attachment.js"
+			],
+			[
+				"valida",
+				"client/src/sections/create-post/create-post-utils/validations.js"
+			],
+			[
+				"instagram",
+				"client/src/sections/create-post/create-post-preview/instagram-preview/instagram-preview.test.js"
+			],
+			[
+				"craete post prev",
+				"client/src/sections/create-post/create-post-preview/create-post-preview.test.js"
+			],
+			[
+				"twitter",
+				"client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview.test.js"
+			],
+			[
+				"linkedinpre",
+				"client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.test.js"
+			],
+			[
+				"linkedin",
+				"client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.js"
+			],
+			[
+				"face-p",
+				"client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.test.js"
+			],
+			[
+				"cus",
+				"client/iflow/declarations/custom-types.js.flow"
+			],
+			[
+				"facebook pre",
+				"client/src/sections/create-post/create-post-preview/facebook-preview/facebook-preview.js"
+			],
+			[
+				"linkedinp",
+				"client/src/sections/create-post/create-post-preview/linkedin-preview/linkedin-preview.js"
+			],
+			[
+				"create post preview",
+				"client/src/sections/create-post/create-post-preview/create-post-preview.js"
+			],
+			[
+				"create post u",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"create post foo cnn",
+				"client/src/sections/create-post/create-post-footer/footer-connected.js"
+			],
+			[
+				"cretae post foo",
+				"client/src/sections/create-post/create-post-footer/create-post-footer.js"
+			],
+			[
+				"content a",
+				"client/src/sections/create-post/create-post-content/content-attachment.js"
+			],
+			[
+				"create post const",
+				"client/src/sections/create-post/create-post-const.js"
+			],
+			[
+				"attchmen",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.js"
+			],
+			[
+				"preview",
+				"client/src/sections/create-post/create-post-preview/twitter-preview/twitter-preview.js"
+			],
+			[
+				"craete post test",
+				"client/src/sections/create-post/create-post.test.js"
+			],
+			[
+				"selectpro",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.less"
+			],
+			[
+				"create-post",
+				"client/src/sections/create-post/create-post.js"
+			],
+			[
+				"create post aci",
+				"client/src/sections/create-post/create-post-actions.test.js"
+			],
+			[
+				"create post pre",
+				"client/src/sections/create-post/create-post-preview/create-post-preview.test.js"
+			],
+			[
+				"footer test",
+				"client/src/sections/create-post/create-post-footer/create-post-footer.test.js"
+			],
+			[
+				"instagra",
+				"client/src/sections/create-post/create-post-preview/instagram-preview/instagram-preview.js"
+			],
+			[
+				"footer con",
+				"client/src/sections/create-post/create-post-footer/footer-connected.js"
+			],
+			[
+				"create post foo",
+				"client/src/sections/create-post/create-post-footer/create-post-footer.js"
+			],
+			[
+				"crate post prev",
+				"client/src/sections/create-post/create-post-preview/create-post-preview.js"
+			],
+			[
+				"feat",
+				"client/src/const/toggles-feature.js"
+			],
+			[
+				"content atta",
+				"client/src/sections/create-post/create-post-content/content-attachment.js"
+			],
+			[
+				"jest",
+				"jest/jest.config.js"
+			],
+			[
+				"attachment u",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.test.js"
+			],
+			[
+				"atta",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.js"
+			],
+			[
+				"validations",
+				"client/src/sections/create-post/create-post-utils/validations.js"
+			],
+			[
+				"create post cont",
+				"client/src/sections/create-post/create-post-content/create-post-content.js"
+			],
+			[
+				"create post add link",
+				"client/src/sections/create-post/create-post-add-link/create-post-add-link.js"
+			],
+			[
+				"add link con",
+				"client/src/sections/create-post/create-post-add-link/create-post-add-link-connected.js"
+			],
+			[
+				"link conn",
+				"client/src/components/link/link-connected.js"
+			],
+			[
+				"string",
+				"client/src/utils/string.test.js"
+			],
+			[
+				"select",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"error bo",
+				"client/src/app/app/error-boundary/error-boundary.js"
+			],
+			[
+				"tracking ac",
+				"client/src/app/tracking/tracking-actions.js"
+			],
+			[
+				"craete post sa",
+				"client/src/sections/create-post/create-post-sagas.test.js"
+			],
+			[
+				"create post sag",
+				"client/src/sections/create-post/create-post-sagas.js"
+			],
+			[
+				"create con",
+				"client/src/sections/create-post/create-post-const.js"
+			],
+			[
+				"attachment-utils",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.js"
+			],
+			[
+				"crete post util",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"create post attachme",
+				"client/src/sections/create-post/create-post-content/content-attachment.js"
+			],
+			[
+				"create post conte",
+				"client/src/sections/create-post/create-post-content/create-post-content.js"
+			],
+			[
+				"crate post sele",
+				"client/src/sections/create-post/create-post-selectors.js"
+			],
+			[
+				"add link",
+				"client/src/sections/create-post/create-post-add-link/create-post-add-link.js"
+			],
+			[
+				"create post",
+				"client/src/sections/create-post/create-post.js"
+			],
+			[
+				"crate post con",
+				"client/src/sections/create-post/create-post-connected.js"
+			],
+			[
+				"select profile test",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.test.js"
+			],
+			[
+				"createpost.test",
+				"client/src/sections/create-post/create-post.test.js"
+			],
+			[
+				"pblishsaga tes",
+				"client/src/app/app/menu/publisher-menu/publisher-menu-sagas.test.js"
+			],
+			[
+				"selectpr",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"craete post err",
+				"~/www/sbks/mobile-suite/client/src/sections/create-post/create-post-error-view/create-post-error-view.js"
+			],
+			[
+				"footer t",
+				"client/src/sections/create-post/create-post-footer/create-post-footer.test.js"
+			],
+			[
+				"create post footer conne",
+				"client/src/sections/create-post/create-post-footer/footer-connected.js"
+			],
+			[
+				"footer",
+				"client/src/sections/create-post/create-post-footer/create-post-footer.js"
+			],
+			[
+				"select-p",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"craete post con",
+				"client/src/sections/create-post/create-post-connected.js"
+			],
+			[
+				"create saga",
+				"client/src/sections/create-post/create-post-sagas.js"
+			],
+			[
+				"sele",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.less"
+			],
+			[
+				"createpost uti",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"select-r",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"select-pro",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"attache",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.js"
+			],
+			[
+				"validatio",
+				"client/src/sections/create-post/create-post-utils/validations.test.js"
+			],
+			[
+				"string test",
+				"client/src/utils/string.test.js"
+			],
+			[
+				"strin",
+				"client/src/utils/string.js"
+			],
+			[
+				"select pr",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.less"
+			],
+			[
+				"craete post hes",
+				"client/src/sections/create-post/create-post-header/create-post-header.js"
+			],
+			[
+				"action-un les",
+				"client/src/sections/action-unavailable/action-unavailable.less"
+			],
+			[
+				"sideme",
+				"client/src/app/app/side-menu/side-menu.less"
+			],
+			[
+				"create post hea",
+				"client/src/sections/create-post/create-post-header/create-post-header.js"
+			],
+			[
+				"create post select profiles",
+				"client/src/sections/create-post/create-post-select-profile/select-profile.js"
+			],
+			[
+				"create sa",
+				"client/src/sections/create-post/create-post-sagas.js"
+			],
+			[
+				"createpost",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"attachment",
+				"client/src/sections/create-post/create-post-utils/attachment-utils.js"
+			],
+			[
+				"validations.j",
+				"client/src/sections/create-post/create-post-utils/validations.test.js"
+			],
+			[
+				"const",
+				"client/src/sections/create-post/create-post-const.js"
+			],
+			[
+				"create post sele",
+				"client/src/sections/create-post/create-post-selectors.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"craetepostte",
+				"client/src/sections/create-post/create-post-actions.test.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"radial",
+				"client/src/sections/create-post/create-post-content/radial-progressbar/radial-progressbar.js"
+			],
+			[
+				"snackbara",
+				"client/src/app/app/snackbar/snackbar-actions.js"
+			],
+			[
+				"craete post conte ",
+				"client/src/sections/create-post/create-post-content/create-post-content.test.js"
+			],
+			[
+				"content.le",
+				"client/src/sections/create-post/create-post-content/create-post-content.less"
+			],
+			[
+				"create post uti",
+				"client/src/sections/create-post/create-post-utils.js"
+			],
+			[
+				"create-post-conn",
+				"client/src/sections/create-post/create-post-connected.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 557.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

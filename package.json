@@ -1,0 +1,15 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:petrkrejcik/parcel.git",
+  "author": "Petr Krejčík <petr.krejcik@socialbakers.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html --global prc",
+    "build": "parcel build index.html --global prc --out-dir docs --public-url /parcel/"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
